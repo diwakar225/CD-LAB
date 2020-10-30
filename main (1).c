@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 #include<string.h>
 #include<ctype.h>
 int n,p,i=0,j=0;
